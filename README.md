@@ -114,6 +114,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 🧰 - [Other Tools & Integrations](#other-tools--integrations)
 
 ### 🔗 <a name="aggregators"></a>Aggregators
+- [MemTether](https://github.com/MemTether/MemTether) - Cross-client AI memory hub with bi-temporal governance, supersession chains, hash-chain audit, and 9 MCP governance tools. Local SQLite, zero cloud.
 - [7Maps](https://7it.co.il/7maps/) `https://7it.co.il/7maps/mcp`
   [![7Maps MCP connector](https://glama.ai/mcp/connectors/io.github.XLSV777/7maps/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.XLSV777/7maps)
   🔓 - Daily map of 22,000+ public MCP servers: status, tool risk, changes and routing to a tool; pay per call via x402.
